@@ -6,7 +6,7 @@ const rbx = require("noblox.js");
 const app = express();
 
 // Replace with your actual Roblox Group ID
-const groupId = 1234567; 
+const groupId = 9824091; 
 
 // Log in to Roblox using the cookie from the .env file
 async function startApp() {
